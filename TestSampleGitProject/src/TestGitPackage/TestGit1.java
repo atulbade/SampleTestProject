@@ -6,7 +6,7 @@ public class TestGit1 {
 	{
 		System.out.println("I m in testGit1 method");
 		System.out.println("I m in testGit1 method aaaaaa");
-		System.out.println("I m in testGit1 method ");
+		System.out.println("I m in testGit1");
 	}
 
 }
